@@ -1,0 +1,30 @@
+# Vector databases
+vector_db/
+
+# Embedding cache
+embedding_cache/
+
+# LLM cache
+langchain_cache.db
+
+# Logs
+rag.log
+*.log
+
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
